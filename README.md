@@ -1,6 +1,6 @@
 # Hi, I'm Castle Ford! 👋
 
-I'm a passionate full-stack developer with a knack for creating innovative solutions using cutting-edge technologies. Welcome to my GitHub profile, where I share my projects, skills, and learning journey.
+I'm a recent graduate of computer science and a passionate full-stack developer with a knack for creating innovative solutions using cutting-edge technologies. 
 
 ---
 
