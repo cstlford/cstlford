@@ -8,7 +8,7 @@ I'm a recent graduate of computer science and a passionate full-stack developer 
 
 **Name:** Castle Ford  
 **Email:** [cstlford@gmail.com](mailto:cstlford@gmail.com)  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/castleford) or explore my projects on [GitHub](https://github.com/cstlford).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/castleford)
 
 ---
 
