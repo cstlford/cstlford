@@ -50,7 +50,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/castleford) or explore
 
 ### **ShapeShift – Generative AI for Nutrition & Exercise**
 A web application that leverages generative AI to create personalized nutrition and exercise plans based on user preferences and goals.
-
+[Check it out!](https://shapeshiftness.netlify.app)
 ---
 
 ### **Eco-Driving Research**
