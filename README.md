@@ -18,8 +18,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/castleford)
 - JavaScript
 - TypeScript
 - Python
-- Java
-- C#
 - SQL
 - HTML
 - CSS
@@ -33,7 +31,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/castleford)
 - Redux
 - React Router
 - Axios
-- Firebase Authentication
 - Pandas
 - Matplotlib
 
