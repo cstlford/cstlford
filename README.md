@@ -58,11 +58,11 @@ Developing and testing an advisory speed limit algorithm using VISSIM and Python
 
 ## 📚 What I'm Learning
 
+- Express.js
+- PostgreSQL
 - Web Development
-- Full-Stack Development
-- AI Research
-- Prompt Engineering
+- LLM Integration
 - Cyber Security
-- .Net
+
 
 
