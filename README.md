@@ -1,6 +1,6 @@
-I'm Castle Ford, a recent CS graduate from UT Chattanooga.
+## Hello! I'm Castle
 
-- 📧 [Email me](mailto:cstlford@gmail.com)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/castleford)
-
-TypeScript, Java, Python, React, Express, Django, HTML, CSS, SQL
+- 🇺🇸 I'm a software engineer from Austin, Texas
+- 🤖 I work on AI agents @ [Otelier](https://otelier.io/products/intellisight/) 
+- 🎮 Right now I'm working on Minecraft mods
+- 🤟🏼 I'm into fun ux, clean architecture, and technical communication
